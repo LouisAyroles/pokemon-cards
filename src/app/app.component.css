@@ -1,0 +1,7 @@
+
+
+:host ::ng-deep span.badge{
+  margin-left: 0;
+  float: none;
+  color: #FFFFFF;
+}
